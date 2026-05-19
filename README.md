@@ -32,9 +32,9 @@ Senior Applied Researcher transitioning into International Development Research
 
 ## Publications
 
-- arXiv: https://arxiv.org/abs/2601.00842
-- IEEE Access (under review)
-- EconStor / ITS paper - https://www.econstor.eu/handle/10419/331250
+- "Forecasting ICT-Driven Trade Competitiveness 2024-2028: A Cluster and Scenario Analysis". arXiv: https://arxiv.org/abs/2601.00842
+-"Nonlinear Machine Learning and Panel Econometric Modeling for Digital Era Economic Growth Forecasting: Evidence from Developing Economies" IEEE Access (publishing process)
+- "Clustering Emerging Economies by Broadband Diffusion Trajectories" EconStor / ITS paper - https://www.econstor.eu/handle/10419/331250
 - Google Scholar: https://scholar.google.com/citations?user=9i0xeFwAAAAJ 
 
 ## Code Philosophy
