@@ -35,6 +35,7 @@ Senior Applied Researcher transitioning into International Development Research
 - arXiv: https://arxiv.org/abs/2601.00842
 - IEEE Access (under review)
 - EconStor / ITS paper - https://www.econstor.eu/handle/10419/331250
+- Google Scholar: https://scholar.google.com/citations?user=9i0xeFwAAAAJ 
 
 ## Code Philosophy
 
