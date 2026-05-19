@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Elias Aravantinos
 
 Senior Applied Researcher transitioning into International Development Research
